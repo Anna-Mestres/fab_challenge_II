@@ -6,7 +6,7 @@
 To raise awareness about the impact of our driven and individual decisions, by a critical design.
 
 
-## Mindmap
+## Areas of Interest
 
 ![Our mindmap](images/mindmap.png)
 
