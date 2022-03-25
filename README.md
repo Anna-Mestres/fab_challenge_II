@@ -58,4 +58,3 @@ The Digital Fabrication that we use are:
 ![Our plan](images/Process-01.png)
 ![Our plan](images/Process-02.png)
 ![Our plan](images/Process-03.png)
-![Our plan](images/Process-04.png)
