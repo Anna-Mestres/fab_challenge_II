@@ -32,6 +32,7 @@ Future consecuences which we don't see at the moment of making the decision.
 ![Our plan](images/systemdiagramm.png)
 ![Our plan](images/renders-01.png)
 ![Our plan](images/renders-02.png)
+![Our plan](images/text-01.png)
 
 
 # Process
@@ -215,3 +216,4 @@ void RandomPalette1(int hue)
 
 ### Thank you :)
 ![Our plan](images/final.gif)
+<img width="500" src=""final.gif"/>
