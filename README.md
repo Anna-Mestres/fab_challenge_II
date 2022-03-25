@@ -214,6 +214,8 @@ void RandomPalette1(int hue)
 
 ~~~
 
+<img width="800" src="images/buttons.gif"/>
+
 ### Thank you :)
 
 <img width="800" src="images/final.gif"/>
