@@ -12,9 +12,12 @@ To raise awareness about the impact of our driven and individual decisions, by a
 
 ## Initial Idea
 
+![Our mindmap](images/Initialidea-01.png)
+![Our mindmap](images/Initialidea-02.png)
+
 ## Propose
 
-
+![Our mindmap](images/proposal-01.png)
 
 ## Team Plan
 
@@ -22,12 +25,14 @@ To raise awareness about the impact of our driven and individual decisions, by a
 
 ## System diagram
 
+![Our plan](images/systemdiagramm.png)
+
 # Process
 
 ## Materials and Digital Fabrication
 
 The materials that we choose to use for create the "" are:
-  * Elecrtonics:
+  * Electronics:
     *  Adafruit ESP32 Feather
     *  6 x Resistors 10k
     *  1 x Resistor 330e
@@ -38,8 +43,7 @@ The materials that we choose to use for create the "" are:
   * Filament
   * Tape doblesided
   * Acrylic white ice (760 x 505 x 4 mm)
-    ![Our materials](images/materials.jpg)
-    *Materials that we used*
+
 
 The Digital Fabrication that we use are:
 
@@ -50,13 +54,8 @@ The Digital Fabrication that we use are:
   * Welders
   * Arduino IDE
   * 3D Printing Machine ()
-    ![Our tools](images/tools.jpg)
-    *Tools that we used*
 
-## Electronics
-
-## Buttons
-
-## Box
-
-## Graphic Design
+![Our plan](images/Process-01.png)
+![Our plan](images/Process-02.png)
+![Our plan](images/Process-03.png)
+![Our plan](images/Process-04.png)
