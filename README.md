@@ -30,6 +30,9 @@ Future consecuences which we don't see at the moment of making the decision.
 ## System diagram
 
 ![Our plan](images/systemdiagramm.png)
+![Our plan](images/renders-01.png)
+![Our plan](images/renders-02.png)
+
 
 # Process
 
