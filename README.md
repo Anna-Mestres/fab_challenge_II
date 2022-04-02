@@ -216,6 +216,20 @@ void RandomPalette1(int hue)
 
 <img width="800" src="images/buttons.gif"/>
 
+##Files
+
+You can find all the files following this [link](https://github.com/Anna-Mestres/fab_challenge_II/tree/main/files).
+
+* CNC Cutting Box design
+* 3D design buttons for the 3D Printing
+* The prototype for the Box for Laser machine
+* Text
+
+##Final design
+
+![Our plan](images/11.jpeg)
+
+
 ### Thank you :)
 
 <img width="800" src="images/final.gif"/>
