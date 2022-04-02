@@ -216,7 +216,19 @@ void RandomPalette1(int hue)
 
 <img width="800" src="images/buttons.gif"/>
 
-##Files
+## Problems during the Process
+
+During the process we had some problems, which would have helped us to know from the beginning to be more effective.
+
+* Perhaps the most basic mistake was not checking all the materials we needed before. We had to go and buy them at the last minute.
+
+*  During the process of creating the box, it seems to last longer than we had planned. But really the mistake was not to properly measure the thickness of the wood, nor to take into account the tolerance, which should be in the hole not in the shaft. Luckily we did not cut it and we reviewed it before with Miquel, who helped us to adapt it easily, scaling the piece.
+
+* At the time of welding the wires did not take well the measurement and they were tubed to re-weld adding wires, because these were not long enough. This wasted a lot of our time.
+
+* Regarding looking at the material in advance, we were programming the Arduino for WS2813 type LED lights. That’s the 12-LED strip they gave us in the Arduino pack. But for the final design we needed a 60-LED strip. That in this case, it was supposed to be taken without knowing some LED type APA102. Being different type, the bookshop of Arduino did not accept it, nor were we aware of what type they were. So we finally found a 60-LED tape of WS2813, which is what we used.  
+
+## Files
 
 You can find all the files following this [link](https://github.com/Anna-Mestres/fab_challenge_II/tree/main/files).
 
@@ -225,7 +237,7 @@ You can find all the files following this [link](https://github.com/Anna-Mestres
 * The prototype for the Box for Laser machine
 * Text
 
-##Final design
+## Final design
 
 ![Our plan](images/11.jpeg)
 
