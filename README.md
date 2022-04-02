@@ -216,6 +216,7 @@ void RandomPalette1(int hue)
 
 <img width="800" src="images/buttons.gif"/>
 
+
 ## Problems during the Process
 
 During the process we had some problems, which would have helped us to know from the beginning to be more effective.
@@ -228,6 +229,7 @@ During the process we had some problems, which would have helped us to know from
 
 * Regarding looking at the material in advance, we were programming the Arduino for WS2813 type LED lights. That’s the 12-LED strip they gave us in the Arduino pack. But for the final design we needed a 60-LED strip. That in this case, it was supposed to be taken without knowing some LED type APA102. Being different type, the bookshop of Arduino did not accept it, nor were we aware of what type they were. So we finally found a 60-LED tape of WS2813, which is what we used.  
 
+
 ## Files
 
 You can find all the files following this [link](https://github.com/Anna-Mestres/fab_challenge_II/tree/main/files).
@@ -236,6 +238,7 @@ You can find all the files following this [link](https://github.com/Anna-Mestres
 * 3D design buttons for the 3D Printing
 * The prototype for the Box for Laser machine
 * Text
+
 
 ## Final design
 
